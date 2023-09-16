@@ -1,5 +1,7 @@
 # CV 
 ## Contact information
+![rsschool-cv\img20221226_21394139.jpg](https://github.com/JYaromich/rsschool-cv/blob/gh-pages/img20221226_21394139.jpg)
+
 **Name:** Yuheni 
 
 **Surname:** Yaromich
